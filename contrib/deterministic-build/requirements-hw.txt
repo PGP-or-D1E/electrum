@@ -57,7 +57,7 @@ click==7.1.2 \
     --hash=sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc
 construct==2.10.56 \
     --hash=sha256:97ba13edcd98546f10f7555af41c8ce7ae9d8221525ec4062c03f9adbf940661
-cryptography==3.2.1 \
+cryptography==3.3.2 \
     --hash=sha256:07ca431b788249af92764e3be9a488aa1d39a0bc3be313d826bbec690417e538 \
     --hash=sha256:13b88a0bd044b4eae1ef40e265d006e34dbcde0c2f1e15eb9896501b2d8f6c6f \
     --hash=sha256:32434673d8505b42c0de4de86da8c1620651abd24afe91ae0335597683ed1b77 \
